@@ -16,7 +16,7 @@ To ensure coherence and brand alignment, I opted for a colour scheme that resona
 
 ![image](https://github.com/joanneabioye/Dashboarding-in-Power-BI/assets/153685683/7bd0a600-92d7-4245-9160-5bdb0804f228)
 
-Upon completing the dashboard, I found it effective in storytelling while maintaining visual appeal. One challenge encountered was transforming the Sales by Product Key to a monthly format rather than daily. However, with continued practice and familiarity with Power BI, I anticipate mastering such adjustments effortlessly. Additionally, in retrospect, I would opt to utilise product names instead of product keys in the stacked area chart for enhanced clarity.
+Upon completing the dashboard, I found it effective in telling a story while maintaining visual appeal. One challenge encountered was transforming the Sales by Product Key to a monthly format rather than daily. However, with continued practice and familiarity with Power BI, I anticipate mastering such adjustments effortlessly. Additionally, in retrospect, I would opt to utilise product names instead of product keys in the stacked area chart for enhanced clarity.
 
 ![image](https://github.com/joanneabioye/Dashboarding-in-Power-BI/assets/153685683/88cf4e10-7cbd-4e45-b4a7-2c1af94e61e7)
 
