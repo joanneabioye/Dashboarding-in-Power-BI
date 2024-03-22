@@ -21,3 +21,16 @@ Upon completing the dashboard, I found it effective in telling a story while mai
 ![image](https://github.com/joanneabioye/Dashboarding-in-Power-BI/assets/153685683/88cf4e10-7cbd-4e45-b4a7-2c1af94e61e7)
 
 
+### Portfolio Index
+
+1. [Value of Data](https://github.com/joanneabioye/Value-of-Data)
+
+2. [Sourcing Data](https://github.com/joanneabioye/Sourcing-Data)
+
+3. [Data Analysis](https://github.com/joanneabioye/Data-Analysis/blob/main/README.md)
+
+4. [Data Formatting and Visualisation](https://github.com/joanneabioye/Data-Formatting-and-Visualisation)
+
+5. Dashboarding in Power BI
+
+6. [Storytelling](https://github.com/joanneabioye/Storytelling/blob/main/README.md)
