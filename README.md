@@ -9,7 +9,8 @@ I undertook a project using Power BI to craft a dashboard for Adventure Works, a
 To fulfil these requirements, I commenced by establishing relationships between various workbooks. Once this foundation was laid, I strategized the data necessary to meet the objectives and determined the most suitable visualisations to effectively communicate the findings. I used a range of visuals, including column charts, funnels, cards, line charts, and stacked charts.
 For instance, to create an average age card, I adjusted the settings in the dropdown menu from Count to Average, setting the number of decimal places to zero. 
 
-![image](https://github.com/joanneabioye/Dashboarding-in-Power-BI/assets/153685683/b8812d9e-6502-43de-8772-6bb87ecd49ba)
+![image](https://github.com/joanneabioye/Dashboarding-in-Power-BI/assets/153685683/65bc7f43-ad81-438b-add8-529f430d7e56)
+
 
 For forecasting, I utilised Order Quantity and Order Date from the AdventureWorks_Sales_2017 dataset, activating the forecasting option and configuring parameters such as Forecast Length and Seasonality to forecast sales for the subsequent 6 weeks.
 
