@@ -1,7 +1,10 @@
 # Dashboarding in Power BI
 I undertook a project using Power BI to craft a dashboard for Adventure Works, aimed at presenting insights on customer types, trends, and forecasts. The project requirements included showcasing individual product performance over time on a monthly basis, forecasting profit for the upcoming 6 weeks, and visualising customer types with a focus on identifying customers with the highest number of orders.
 
-![image](https://github.com/joanneabioye/Dashboarding-in-Power-BI/assets/153685683/0005a77f-999d-4dc8-95f4-3dc54826ea93)
+![image](https://github.com/joanneabioye/Dashboarding-in-Power-BI/assets/153685683/07f1fec5-b9bc-407a-9f15-cffe82ddd146)
+
+![image](https://github.com/joanneabioye/Dashboarding-in-Power-BI/assets/153685683/8bb71cbc-91ac-4eb1-b827-9599ebd43aa3)
+
 
 To fulfil these requirements, I commenced by establishing relationships between various workbooks. Once this foundation was laid, I strategized the data necessary to meet the objectives and determined the most suitable visualisations to effectively communicate the findings. I used a range of visuals, including column charts, funnels, cards, line charts, and stacked charts.
 For instance, to create an average age card, I adjusted the settings in the dropdown menu from Count to Average, setting the number of decimal places to zero. 
